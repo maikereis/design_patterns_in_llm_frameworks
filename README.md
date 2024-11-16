@@ -27,6 +27,10 @@ This repository contains a collection of example code and use cases of Design Pa
 
 [facade](patterns/design/structural/facade.ipynb)
 
+[flyweight](patterns/design/structural/flyweight.ipynb)
+
+[proxy](patterns/design/structural/proxy.ipynb)
+
 ### Behavioral
 [strategy](patterns/design/behavioral/strategy.ipynb)
 
