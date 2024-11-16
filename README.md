@@ -9,11 +9,23 @@ This repository contains a collection of example code and use cases of Design Pa
 ## Design Patterns
 ### Creational
 [factory](patterns/design/creational/factory.ipynb)
+
 [singleton](patterns/design/creational/singleton.ipynb)
+
+[prototype](patterns/design/creational/prototype.ipynb)
 
 ### Structural
 [adapter](patterns/design/structural/adapter.ipynb)
+
 [repository](patterns/design/structural/repository.ipynb)
+
+[bridge](patterns/design/structural/bridge.ipynb)
+
+[composite](patterns/design/structural/composite.ipynb)
+
+[decorator](patterns/design/structural/decorator.ipynb)
+
+[facade](patterns/design/structural/facade.ipynb)
 
 ### Behavioral
 [strategy](patterns/design/behavioral/strategy.ipynb)
