@@ -31,6 +31,8 @@ This repository contains a collection of example code and use cases of Design Pa
 
 [proxy](patterns/design/structural/proxy.ipynb)
 
+[registry](patterns/design/structural/registry.ipynb)
+
 ### Behavioral
 [strategy](patterns/design/behavioral/strategy.ipynb)
 
